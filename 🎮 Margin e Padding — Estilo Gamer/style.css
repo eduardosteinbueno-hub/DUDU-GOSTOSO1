@@ -1,0 +1,19 @@
+.h1{
+    color: #00D4FF;
+}
+
+.first {
+    background-color: #1565C0;
+    margin: 30px;
+    padding: 10px;
+}
+
+.second{
+    background-color: #2E7D32;
+    margin: 30px;
+}
+.third{
+    background-color: #E65100;
+    margin: 5px;
+    padding: 5px;
+}
