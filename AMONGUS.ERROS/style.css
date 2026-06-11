@@ -1,0 +1,11 @@
+.container{
+     position: relative;
+}
+
+.icone{
+  position: absolute;
+}
+.icone-01 {
+    left: 50px;
+    top: 50px;
+}
