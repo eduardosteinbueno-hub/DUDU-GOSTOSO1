@@ -142,17 +142,39 @@ body{
 
 }
 
+.socials{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
 .socials a{
     width: 32px;
     height: 32px;
 }
 
-.insta{
+.instagram{
     background-image: url(./assets/assets/faInstagram.png);
+    background-size: contain;
+    background-position: center;
+
+}
+
+.linkedin{
+    background-image: url(./assets/assets/faLinkedin.png);
+    background-size: contain;
+    background-position: center;
 
 }
 
 .facebook{
     background-image: url(./assets/assets/faFacebookSquare.png);
+    background-size: contain;
+    background-position: center;
 }
 
+.youtube{
+    background-image: url(./assets/assets/faYoutube.png);
+    background-size: contain;
+    background-position: center;
+}
